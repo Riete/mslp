@@ -23,7 +23,7 @@ var (
 
 func flagParse() {
 	logPath = flag.String("log-path", "", "mysql slow log file path")
-	mySqlName = flag.String("mysql-name", "", "mysql name")
+	mySqlName = flag.String("mysql-name", "", "mysql name to set dingtalk title")
 	secret = flag.String("secret", "", "dingtalk webhook secret")
 	webhook = flag.String("webhook", "", "dingtalk webhook")
 	onlyDb = flag.String("only-db", "", "db1,db2,... only send these databases slow log, seperated by ','")

@@ -14,8 +14,8 @@ Usage of ./mslp:
         db1,db2,... only send these databases slow log, seperated by ','
   -secret string
         dingtalk webhook secret
-  -sql-name string
-        mysql name
+  -mysql--name string
+        mysql name to set dingtalk title
   -webhook string
         dingtalk webhook
 ```
