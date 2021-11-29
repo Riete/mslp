@@ -1,0 +1,8 @@
+github.com/riete/dingtalk v0.0.1 h1:sY53pmEA+uSaghDU4imNfgZd+Ewe9Fx+Dxjqrazgsds=
+github.com/riete/dingtalk v0.0.1/go.mod h1:ng8IZNfGlSTC2Dd+rY1YWY9JlRGjnZfFLNge/6wbaeU=
+github.com/riete/frbl v0.0.2 h1:EI0qvocABIq5Svdi9nJ5F/H7zoVaoRNqaXxKZD5PxEE=
+github.com/riete/frbl v0.0.2/go.mod h1:3G02HHzHaMcicQNaHfQwZGN+isSfGld4GRor7+vTLxc=
+github.com/riete/frbl v0.0.3 h1:g2FqgyVQhB/WyTEi3IWf7WNTLdUQd9OZr4AlZv3nUtQ=
+github.com/riete/frbl v0.0.3/go.mod h1:3G02HHzHaMcicQNaHfQwZGN+isSfGld4GRor7+vTLxc=
+github.com/riete/requests v1.0.3 h1:A/WWtQJ5RNTsxZs+pIgnoXIdVZhdpzHo9aof4ZQqKIc=
+github.com/riete/requests v1.0.3/go.mod h1:+3dkH6BzCtt3s2r9aLCp/imlWiEjRpJCsdSXFqk7A1g=

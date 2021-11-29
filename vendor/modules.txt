@@ -1,0 +1,9 @@
+# github.com/riete/dingtalk v0.0.1
+## explicit; go 1.13
+github.com/riete/dingtalk
+# github.com/riete/frbl v0.0.3
+## explicit; go 1.17
+github.com/riete/frbl
+# github.com/riete/requests v1.0.3
+## explicit; go 1.13
+github.com/riete/requests
