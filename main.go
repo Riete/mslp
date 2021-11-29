@@ -64,7 +64,7 @@ func logParse(file frbl.FileReader, sl SizedList) {
 			continue
 		}
 		if strings.HasPrefix(c, "# Time:") {
-			record = SQLSlowRecord{}
+			record = SQLSlowRecord{DBName: record.DBName}
 			record.ExecutionStartTime = strings.Split(strings.ReplaceAll(c, "# Time: ", ""), ".")[0]
 		} else if strings.HasPrefix(c, "# User") {
 			user := strings.Split(c, " ")
